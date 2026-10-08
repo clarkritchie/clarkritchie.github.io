@@ -7,11 +7,10 @@ I am passionate about building and operating **world-class applications** that *
 Connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/clarkritchie)
 - [GitHub](https://www.github.com/clarkritchie)
-- Or use [Calendly](https://calendly.com/clarkritchie) to get onto my calendar
 
 ## 💬 TL;DR
 
-- Core skills:  Linux, Terraform, Docker and containers (Kubernetes, Elastic Container Service, Docker Swarm), Go (Golang), Python, CI/CD, cloud (AWS, GCP), and loads of experience with tools like GitHub Actions
+- Core skills:  Linux, Kubernetes, Python, Go (Golang), infrastructure as code (Pulumi, Crossplane, Terraform), CI/CD, cloud (GCP, AWS), observability (Datadog), and loads of experience with tools like GitHub Actions
 - I am a developer, but also very close to infrastructure
 - I approach software development with an SRE's mindset -- scalability, fault-tolerance, optimizing spend, monitoring and alerting -- these things, and more, are always part of my thinking
 - Sometimes good is better than perfect; I like to ship early and ship often
@@ -27,13 +26,19 @@ Connect with me on:
 - Co-founded an [ISP in Kenya](https://pitchbook.com/profiles/company/113840-47) (’13-’18)
 - 5 Years as Platform Engineer at [Specialized Bicycle Components](https://www.specialized.com/us/en) (’18-’23)
 - Principal Engineer at Blueboard, a failed HR SaaS startup (’23-’24)
-- My current role is as a Senior Staff SRE Software Engineer at [Dexcom](https://www.dexcom.com)
+- Senior Staff SRE Software Engineer at [Dexcom](https://www.dexcom.com) ('24-present)
 
 ## Current Stack
 
-These days I am using Kubernetes (GKE), Helm charts, GitHub Actions, Cloud SQL (MySQL, Postgres), Cassandra, Spanner, Python, Go, Crossplane (for IaC), GCP and Datadog.
+These days I am using Kubernetes (GKE), Helm charts, GitHub Actions, Python, Go, GCP (Cloud Run, Secret Manager, Cloud SQL, Spanner) and Datadog.
+
+For infrastructure as code it is mostly Pulumi and Crossplane.  A lot of my recent work is observability as code -- managing Datadog monitors, synthetics and service level objectives across dozens of environments in three global regions, plus the Python service that runs the synthetics themselves.
+
+I also spend a fair amount of time on AI-assisted engineering workflows -- reusable skill definitions, repo-level agent instructions, and permission guardrails that keep destructive cloud and state operations under human review.
 
 ## 🗒️ Random Things on my GitHub
+
+**Dislcaimer:** This is all very, very old!!!
 
 A lot of this is elementary stuff -- sometimes I use these just to prove out a basic concept or maybe to provide myself a template for future use.  Some of the Terraform is more sophisticated.
 
