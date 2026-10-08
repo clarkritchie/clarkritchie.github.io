@@ -99,14 +99,3 @@ A lot of this is elementary stuff -- sometimes I use these just to prove out a b
 - [trails.losritchi.es](https://github.com/clarkritchie/trails.losritchi.es) is a tiny SPA (React) I made to help me name my mountain bike rides for Strava, it lives [here](http://trails.losritchi.es/)
 
 Additional other random notes and code snippets that I did not explicitly link to are [here](https://gist.github.com/clarkritchie)
-
-## Not Mine
-
-- A neat [search and replace](https://gist.github.com/clarkritchie/4e1e365085675995d9726d70cd87b9a3) shell hack for use with the [Silver Searcher](https://github.com/ggreer/the_silver_searcher)
-
-Here are some excellent Gists by Andrew Zurn on how to use [Ollama](https://ollama.com/) to write your PRs for you (and other things):
-
-- [https://gist.github.com/AndrewZurn/8050f8ad5bff2c6826cd71eacaa52fb9](https://gist.github.com/AndrewZurn/8050f8ad5bff2c6826cd71eacaa52fb9)
-- ⁠[⁠https://gist.github.com/AndrewZurn/ef633ace2f28828d38bbbcac5cca523a](https://gist.github.com/AndrewZurn/ef633ace2f28828d38bbbcac5cca523a)
-- [⁠https://gist.github.com/AndrewZurn/01f3fa2e8de80a06ab744b39d472e5d4](⁠https://gist.github.com/AndrewZurn/01f3fa2e8de80a06ab744b39d472e5d4)
-- [⁠https://gist.github.com/AndrewZurn/382d20e58c60e9188ff0b12658200c71](⁠https://gist.github.com/AndrewZurn/382d20e58c60e9188ff0b12658200c71)
